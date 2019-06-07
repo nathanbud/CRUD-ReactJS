@@ -11,7 +11,7 @@ const Form =() =>{
             <input type="text"/>
             <div className="submit-container">
             <input type="submit" value="Sign In"/>
-            <input type="submit" vvalue="Sign Up"/>
+            <input type="submit" value="Sign Up"/>
             </div>
         </form>
         </div>

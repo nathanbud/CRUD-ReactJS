@@ -25,7 +25,7 @@
 
 .contact-form{
 width:80%;
-margin:0 auto;
+margin:50px auto;
 }
 
 .contact-form input{
@@ -40,7 +40,7 @@ margin:0 auto;
 
 .contact-form input[type="submit"]{
   padding: 5px;
-  width:59%;
+  width:49.2%;
  margin:10px 0 0;
  height:35px;
  font-size:20;
@@ -51,7 +51,7 @@ margin:0 auto;
 
 .submit-container{
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   width: 51%;
   margin: 0 auto;
 
